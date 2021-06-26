@@ -1,11 +1,10 @@
 import React from "react";
 
-import "./App.css";
-
 function App() {
   return (
-    <div>
-      <h1>React App</h1>
+    <div className="container mt-5">
+      <h1>Tareas</h1>
+      <hr />
     </div>
   );
 }
