@@ -48,7 +48,7 @@ function App() {
             />
 
             <button
-              className="btn btn-dark btn-block"
+              className="btn btn-dark bt-block"
               type="submit"
             >
               Agregar
